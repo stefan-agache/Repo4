@@ -40,7 +40,7 @@ namespace WebApplication2
                 app.UseExceptionHandler("/Error");
             } 
 
-            // asdas
+            // asdasww
 
             app.UseStaticFiles();
             app.UseSpaStaticFiles();
